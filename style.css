@@ -1,0 +1,24 @@
+div#bandeau
+{
+	color:white;
+	height:50%;
+	background-color:#000101;
+	justify-content: center;
+	margin:auto;
+	display:flex
+	;
+}
+
+div#meteo
+{
+width:100%;
+height:20%;
+background-color:#03E8FF;
+flex-direction: row
+;
+}
+
+.box {
+         display: flex;
+         flex-direction: row-reverse;
+        }
